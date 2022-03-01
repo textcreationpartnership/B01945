@@ -1,0 +1,593 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of seeds, plants, &amp;c. sold by Edward Fuller at the Three Crowns and Naked Boy at Strand-Bridge near the May-pole, London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>16uu</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01945</idno>
+            <idno type="STC">Wing C1365B</idno>
+            <idno type="STC">ESTC R176351</idno>
+            <idno type="EEBO-CITATION">53981616</idno>
+            <idno type="OCLC">ocm 53981616</idno>
+            <idno type="VID">180147</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180147)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2819:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of seeds, plants, &amp;c. sold by Edward Fuller at the Three Crowns and Naked Boy at Strand-Bridge near the May-pole, London.</title>
+                  <author>Fuller, Edward, plant seller.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>16--?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Printed in six columns.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seeds --  Catalogs --  England --  17th century.</term>
+               <term>Plants --  Catalogs --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="sale_catalogue__seeds_plants">
+            <pb facs="tcp:180147:1" rendition="simple:additions"/>
+            <pb facs="tcp:180147:2" rendition="simple:additions"/>
+            <head>A CATALOGUE OF SEEDS, PLANTS, &amp;c.</head>
+            <argument>
+               <p>Sold by <hi>Edward Fuller,</hi> at the <hi>Three Crowns and Naked Boy</hi> at <hi>Strand-Bridge</hi> near the <hi>May-pole, London.</hi>
+               </p>
+            </argument>
+            <list>
+               <head>Seeds of Roots.</head>
+               <item>
+                  <hi>STrasburgh</hi> Onion-Seed.</item>
+               <item>Red <hi>Spanim</hi> Onion.</item>
+               <item>White <hi>Spaniſh</hi> Onion.</item>
+               <item>
+                  <hi>Engliſh</hi> Onion.</item>
+               <item>
+                  <hi>London</hi> Leek.</item>
+               <item>
+                  <hi>French</hi> Leek.</item>
+               <item>Orange Carrot.</item>
+               <item>Red Cerrot.</item>
+               <item>Swelling Parſnep.</item>
+               <item>Long Turnep.</item>
+               <item>Round Turnep.</item>
+               <item>Yellow Turnep.</item>
+               <item>Skirret.</item>
+               <item>Scorzonera.</item>
+               <item>Saſſify.</item>
+               <item>Potatoes.</item>
+               <item>Rockambole.</item>
+               <item>Shallots.</item>
+               <item>Garlick.</item>
+            </list>
+            <list>
+               <head>Sallad-Seeds.</head>
+               <item>
+                  <hi>LOndon</hi> Radiſh.</item>
+               <item>
+                  <hi>Sandwich</hi> Radiſh.</item>
+               <item>Black <hi>Spaniſh</hi> Radiſh.</item>
+               <item>White <hi>Spaniſh</hi> Radiſh.</item>
+               <item>Cabbage Lettuce.</item>
+               <item>
+                  <hi>Lombard</hi> Lettuce.</item>
+               <item>
+                  <hi>Roman</hi> Lettuce.</item>
+               <item>
+                  <hi>Sileſia</hi> Lettuce.</item>
+               <item>
+                  <hi>Arabian</hi> Lettuce.</item>
+               <item>
+                  <hi>Savoy</hi> Lettuce.</item>
+               <item>Roſe Lettuce.</item>
+               <item>Red Lettuce.</item>
+               <item>Curl'd Lettuce.</item>
+               <item>Round Spinage.</item>
+               <item>Prickly Spinage.</item>
+               <item>Berry-bearing Orach.</item>
+               <item>White Beet.</item>
+               <item>Red Beet.</item>
+               <item>
+                  <hi>Roman</hi> Beet.</item>
+               <item>Curl'd Endive.</item>
+               <item>
+                  <hi>Italian</hi> Selerée.</item>
+               <item>
+                  <hi>Italian</hi> Fennel.</item>
+               <item>Sampier.</item>
+               <item>Rocket.</item>
+               <item>
+                  <hi>Spaniſh</hi> Rocket.</item>
+               <item>Rampion.</item>
+               <item>Harts-horn.</item>
+               <item>
+                  <hi>French</hi> Sorrel.</item>
+               <item>Cardoon.</item>
+               <item>
+                  <hi>Indian</hi> Creſſes.</item>
+               <item>Garden Creſſes.</item>
+               <item>Broad-leav'd Creſſes.</item>
+               <item>Curl'd Creſſes.</item>
+               <item>Chervil.</item>
+               <item>Sweet Chervil.</item>
+               <item>Purſlane.</item>
+               <item>Golden Purſlane.</item>
+               <item>Parſley.</item>
+               <item>Curl'd Parſley.</item>
+               <item>Aliſander.</item>
+               <item>Corn Sallad.</item>
+               <item>
+                  <hi>Dutch</hi> Aſparagus.</item>
+               <item>Colly Flower.</item>
+               <item>
+                  <hi>Engliſh</hi> Cabbage.</item>
+               <item>
+                  <hi>Dutch</hi> Cabbage.</item>
+               <item>
+                  <hi>Ruſſia</hi> Cabbage.</item>
+               <item>Red Cabbage.</item>
+               <item>Colewort.</item>
+               <item>Curl'd Colewort.</item>
+               <item>Sheerwort.</item>
+               <item>
+                  <hi>French</hi> Choux.</item>
+               <item>
+                  <hi>Dutch</hi> Savoy.</item>
+               <item>Coll-Rapi.</item>
+               <item>
+                  <hi>Engliſh</hi> Melon.</item>
+               <item>
+                  <hi>French</hi> Melon.</item>
+               <item>
+                  <hi>Spaniſh</hi> Melon.</item>
+               <item>Long Cucumber.</item>
+               <item>Short Cucumber.</item>
+               <item>Prickly Cucumber.</item>
+               <item>Pompion.</item>
+               <item>Gourd.</item>
+               <item>Mekin.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Pot-Herb</hi> SEEDS.</head>
+               <item>ENdive.</item>
+               <item>Succory.</item>
+               <item>Borage.</item>
+               <item>Bugloſs.</item>
+               <item>Burnet.</item>
+               <item>Blood-wort.</item>
+               <item>Clary.</item>
+               <item>Sorrel.</item>
+               <item>Marygold.</item>
+               <item>Pot-Marjorum.</item>
+               <item>Landebeef.</item>
+               <item>Summer-Savory.</item>
+               <item>Columbine.</item>
+               <item>Tanſie.</item>
+               <item>Nepp.</item>
+               <item>
+                  <hi>French</hi> Mallows.</item>
+               <item>Orach.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Sweet-herb</hi> SEEDS.</head>
+               <item>THyme.</item>
+               <item>Hyſſop.</item>
+               <item>Winter-Savory.</item>
+               <item>Sweet-Marjorum.</item>
+               <item>Sweet-Baſil.</item>
+               <item>Roſemary.</item>
+               <item>Lavender.</item>
+               <item>Baum.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Phyſical</hi>-SEEDS.</head>
+               <item>CArdus Benedictus.</item>
+               <item>Scurvy Graſs.</item>
+               <item>Angelica.</item>
+               <item>Lovage.</item>
+               <item>Smallage.</item>
+               <item>Tobacco.</item>
+               <item>Dill.</item>
+               <item>Common Fennel.</item>
+               <item>Sweet Fennel.</item>
+               <item>Caruway.</item>
+               <item>Cumin.</item>
+               <item>Aniſe.</item>
+               <item>Corriander.</item>
+               <item>Gromewel.</item>
+               <item>Henbane.</item>
+               <item>Plantain.</item>
+               <item>Nettle.</item>
+               <item>Foenugreek.</item>
+               <item>Flawort.</item>
+               <item>Rhubarb.</item>
+               <item>Bur-dock.</item>
+               <item>Elecampane.</item>
+               <item>Balſam.</item>
+               <item>White Poppy.</item>
+               <item>Cardamum.</item>
+               <item>Gourd.</item>
+               <item>Broom.</item>
+               <item>Piony.</item>
+               <item>Daucus.</item>
+               <item>Citrul.</item>
+               <item>Worm-Seed.</item>
+               <item>Worm-wood.</item>
+               <item>Rue.</item>
+               <item>Oculus Chriſti.</item>
+               <item>Line <hi>or</hi> Flax.</item>
+               <item>Marſh-mallow.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Flower</hi>-SEEDS.</head>
+               <item>DOuble July-Flowers.</item>
+               <item>Stock July-Flowers.</item>
+               <item>Wall-Flower.</item>
+               <item>White Wall-flower.</item>
+               <item>Matted Pink.</item>
+               <item>Mountain Pink.</item>
+               <item>Double Columbine.</item>
+               <item>
+                  <hi>Virginian</hi> Columbine.</item>
+               <item>Double Larks-heel.</item>
+               <item>Upright Larks-heel.</item>
+               <item>Roſe Larks-heel.</item>
+               <item>
+                  <hi>Affrican</hi> Marygold.</item>
+               <item>
+                  <hi>French</hi> Marygold.</item>
+               <item>Snap-Dragon.</item>
+               <item>
+                  <hi>Candy</hi> Tuft.</item>
+               <item>Sweet Scabious.</item>
+               <item>
+                  <hi>Spaniſh</hi> Scabious.</item>
+               <item>
+                  <hi>London</hi> Pride.</item>
+               <item>Capſicum Indicum.</item>
+               <item>
+                  <hi>Venus</hi> Looking-glaſs.</item>
+               <item>
+                  <hi>Venus</hi> Navel-wort.</item>
+               <item>
+                  <hi>French</hi> Honyſuckle.</item>
+               <item>White <hi>French</hi> Honyſuckle.</item>
+               <item>Scalet Lychnis.</item>
+               <item>Roſe Campion.</item>
+               <item>Noli me Tangere.</item>
+               <item>Marvel of <hi>Peru.</hi>
+               </item>
+               <item>Naſturtiam Indicum.</item>
+               <item>Colutae.</item>
+               <item>Sweet Sultan.</item>
+               <item>Ptarmice.</item>
+               <item>Red Valerian.</item>
+               <item>White Valerian.</item>
+               <item>
+                  <hi>Greek</hi> Valerian.</item>
+               <item>Branch'd Sun-flower.</item>
+               <item>
+                  <hi>Canterbury</hi> Bell.</item>
+               <item>Flos Adonis.</item>
+               <item>Fox-tail.</item>
+               <item>Iron-colour Fox-glove.</item>
+               <item>Nigella <hi>Romana.</hi>
+               </item>
+               <item>Urtica <hi>Romana.</hi>
+               </item>
+               <item>Primeroſe Tree.</item>
+               <item>Belvidere.</item>
+               <item>Amaranthus Purpureus.</item>
+               <item>Amaranthus Coccineus.</item>
+               <item>Amaranthus Tricolor.</item>
+               <item>Princes Feather.</item>
+               <item>Green Amaranthus.</item>
+               <item>Love-Apple.</item>
+               <item>Thorn Apple.</item>
+               <item>Double Poppy ſtrip'd.</item>
+               <item>Double Holyhock.</item>
+               <item>Lobel's Catch-fly.</item>
+               <item>Goats Rue.</item>
+               <item>
+                  <hi>Speniſh</hi> Mallow-tree.</item>
+               <item>Monks Hood.</item>
+               <item>Convulvulus Major.</item>
+               <item>Convulvulus Minor.</item>
+               <item>Bottles of all colours.</item>
+               <item>Globe Thiſtle.</item>
+               <item>Great blew Lupines.</item>
+               <item>Small blew Lupines.</item>
+               <item>Yellow Lupines.</item>
+               <item>White Lupines.</item>
+               <item>Scarlet Beans.</item>
+               <item>Everlaſting Peaſe.</item>
+               <item>Snails and Catterpillars.</item>
+               <item>Horns and Hedghogs.</item>
+               <item>Tulip.</item>
+               <item>Auemone.</item>
+               <item>Auricula.</item>
+               <item>Polyanthos.</item>
+               <item>Primroſe.</item>
+               <item>Senſible Plant.</item>
+               <item>Humble Plant.</item>
+            </list>
+            <list>
+               <head>Seeds of Ever green and Flowering-Trees.</head>
+               <item>CYpreſs.</item>
+               <item>Silver Firr.</item>
+               <item>
+                  <hi>Norway</hi> Firr.</item>
+               <item>
+                  <hi>Scotch</hi> Firr.</item>
+               <item>Great Pine.</item>
+               <item>Pinaſter.</item>
+               <item>Phillirea vera.</item>
+               <item>Alaternus.</item>
+               <item>Pyracantha.</item>
+               <item>Arbutus.</item>
+               <item>Horn-Beam.</item>
+               <item>Laurus Tinus.</item>
+               <item>Amomum Plynii.</item>
+               <item>Mezerian Berries.</item>
+               <item>Ceder Berries.</item>
+               <item>Holly Berries.</item>
+               <item>Laurel Berries.</item>
+               <item>Bay Berries.</item>
+               <item>Juniper Berries.</item>
+               <item>Yew Berries.</item>
+               <item>Mirtle Berries.</item>
+               <item>Ever-green Oak-Acrons.</item>
+               <item>Cork-tree Acrons.</item>
+               <item>Lime-tree Seed.</item>
+               <item>Sena Seed.</item>
+               <item>Althaea frutex Seed.</item>
+               <item>Laburnum.</item>
+               <item>
+                  <hi>Spaniſh</hi> Broom Seed.</item>
+               <item>Cheſnuts.</item>
+               <item>Almonds.</item>
+            </list>
+            <list>
+               <head>Sorts of <hi>Peaſe, Beans,</hi> &amp;c.</head>
+               <item>BArns Hot-ſpur Peaſe.</item>
+               <item>Short Hot-ſpur Peaſe.</item>
+               <item>Long Hot-ſpur Peaſe.</item>
+               <item>
+                  <hi>Sandwich</hi> Peaſe.</item>
+               <item>Grey Rouncival Peaſe.</item>
+               <item>White Rouncival Peaſe.</item>
+               <item>Blew Rouncival Peaſe.</item>
+               <item>Green Rouncival Peaſe.</item>
+               <item>Maple Rouncival Peaſe.</item>
+               <item>Large White Sugar Peaſe.</item>
+               <item>Small white Sugar Peaſe.</item>
+               <item>Grey Sugar Peaſe.</item>
+               <item>Egg Peaſe.</item>
+               <item>Wing Peaſe.</item>
+               <item>Sickle Peaſe.</item>
+               <item>
+                  <hi>Windſor</hi> Beans.</item>
+               <item>
+                  <hi>Sandwich</hi> Beans.</item>
+               <item>White Kidney Beans.</item>
+               <item>Speckled Kidney Beans.</item>
+               <item>
+                  <hi>Canterbury</hi> Kidney Beans.</item>
+               <item>Lentils.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Seeds</hi> to Improve Land.</head>
+               <item>CLover-Graſs.</item>
+               <item>Hop-Clover cleans'd.</item>
+               <item>Hop-Clover in the husk.</item>
+               <item>Sain-foine.</item>
+               <item>La Lucern.</item>
+               <item>Spury.</item>
+               <item>
+                  <hi>French</hi> Furz.</item>
+               <item>
+                  <hi>Dantzick</hi> Flax.</item>
+               <item>Hemp-Seed.</item>
+               <item>Rape-Seed.</item>
+               <item>Muſtard-ſeed.</item>
+               <item>
+                  <hi>Canary</hi> ſeed.</item>
+            </list>
+            <list>
+               <head>FLOWER ROOTS.</head>
+               <item>RAnuncula's, all ſorts.</item>
+               <item>Double Anemonies, all ſorts.</item>
+               <item>
+                  <hi>French</hi> Anemonies.</item>
+               <item>Tulips, all ſorts.</item>
+               <item>Double July-flower, all ſorts</item>
+               <item>Auriculus, double ſtrip'd and plain.</item>
+               <item>Polyantho's, all ſorts.</item>
+               <item>Iris, <hi>Perſian Chalcedonian, Dwarf, &amp;c.</hi>
+               </item>
+               <item>Crown Imperial, Yellow, double and ſingle.</item>
+               <item>Fraxinella's purple &amp; white</item>
+               <item>Hepatica, double blew, and double Peach-colour, white, blew, and Peach-colour, ſingle.</item>
+               <item>Crocus's, all ſorts.</item>
+               <item>Narciſſus, all ſorts.</item>
+               <item>Hyacynthus Tuberioſus.</item>
+               <item>Junquils, double and ſingle.</item>
+               <item>Piony's, Black, Red, Pur<g ref="char:EOLhyphen"/>ple and Strip'd.</item>
+               <item>Fritillaria, all ſorts.</item>
+               <item>Hellebore, white, black, &amp; Chriſtmaſs.</item>
+               <item>Cholchicum Chio, purple, ſtrip'd, <hi>&amp;c.</hi>
+               </item>
+               <item>Gladiolus, all ſorts.</item>
+               <item>Cyclamen Vernum, &amp; Au<g ref="char:EOLhyphen"/>tumnale.</item>
+               <item>Lillies, all ſorts.</item>
+            </list>
+            <list>
+               <head>Sorts of Choice <hi>Trees</hi> and <hi>Plants.</hi>
+               </head>
+               <item>ORanges, Strip'd and Hermophradite.</item>
+               <item>Lemons.</item>
+               <item>Cittrons.</item>
+               <item>Pomegranats.</item>
+               <item>Mirtles, <hi>broad leav'd, box-leav'd, Orange-leav'd, Birds Neſt, <g ref="char:V">Ʋ</g>pright</hi> and <hi>Double-flower'd.</hi>
+               </item>
+               <item>Two ſort, of upright Mir<g ref="char:EOLhyphen"/>tles.</item>
+               <item>The upright Mirtle of <hi>Por<g ref="char:EOLunhyphen"/>tugal.</hi>
+               </item>
+               <item>The Broad-leav'd Mirtle of <hi>Portugal.</hi>
+               </item>
+               <item>The Broad-leav'd Mirtle of <hi>Spain.</hi>
+               </item>
+               <item>A Broad-leav'd Mirtle, the Leaves tipt with white like Silver.</item>
+               <item>Rhus Tyrtifolia, &amp; Virgi<g ref="char:EOLhyphen"/>nianum, the Mirtle-leav'd and Virginian Sumach.</item>
+               <item>Oleander Red and White.</item>
+               <item>Phyllerea ſerrato folio, &amp; Auguſto-folio, &amp; foliis leviter ſerratis.</item>
+               <item>Alaternus, ſtrip'd with yel<g ref="char:EOLhyphen"/>low and white.</item>
+               <item>Cytiſus, Lunatus, &amp; Secun<g ref="char:EOLhyphen"/>dus Clufii.</item>
+               <item>Amomum Plynii.</item>
+               <item>Holly's, ſtrip'd with yellow, with white and yellow Berries.</item>
+               <item>Arbutus.</item>
+               <item>Paliurus.</item>
+               <item>Olive-Tree.</item>
+               <item>Cedrus Libani.</item>
+               <item>Aloes Americana, five Sem<g ref="char:EOLhyphen"/>pervivum, <hi>Aloes of</hi> A<g ref="char:EOLhyphen"/>merica.</item>
+               <item>Agnus Caſtus.</item>
+               <item>Arbor Judae.</item>
+               <item>Platanus Orientalus, &amp; Oc<g ref="char:EOLhyphen"/>tidentalis.</item>
+               <item>Tragacantha.</item>
+               <item>Horſe-Cheſnut.</item>
+               <item>Jeſſamines, <hi>Spaniſh</hi> yellow, <hi>Perſian</hi> white, <hi>&amp;c.</hi>
+               </item>
+               <item>Ciſtus, all ſorts.</item>
+               <item>Geranium noctu Olens.</item>
+               <item>Jucca Peruana.</item>
+               <item>Nightſhade variegated.</item>
+               <item>Woodbine variegated.</item>
+               <item>Althaea frutex, purple, white, <hi>&amp;c.</hi>
+               </item>
+               <item>Terebenthus.</item>
+               <item>Lentiſchus.</item>
+               <item>Laurus Tinus Latifolia.</item>
+               <item>Laurus Tinus Auguſtifolia.</item>
+               <item>Lauroceraſus, the Cherry-Bay.</item>
+               <item>The ſtrip'd Laurel.</item>
+               <item>Juniperus Hiſpanicus, the Juniper of <hi>Spain.</hi>
+               </item>
+               <item>Chamela Tricoccos, or <hi>Wi<g ref="char:EOLhyphen"/>dow-wail.</hi>
+               </item>
+               <item>Laurus Alexandrina, Hip<g ref="char:EOLhyphen"/>pogloſſum mas, the Horſe-tongue Bay.</item>
+               <item>Laurus Alexandrina, &amp; Ge<g ref="char:EOLhyphen"/>nuvina, the true Bay of <hi>Alexandrina.</hi>
+               </item>
+               <item>Jacobaea Marina incana, <hi>Sea-Rag-wort.</hi>
+               </item>
+               <item>Azedarach, the Bead-tree.</item>
+               <item>Piracantha.</item>
+               <item>The Marracock of <hi>Virginia.</hi>
+               </item>
+               <item>Piſtacia Virginienſis Trifolia the three-leav'd <hi>Virgi<g ref="char:EOLhyphen"/>nian</hi> Bladder-Nut.</item>
+               <item>Jaſminanum Virginianum, the <hi>Virginian</hi> Jaſmine.</item>
+               <item>With many <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+            </list>
+            <p>You may be likewiſe here accommodated with <hi>Spades, Hoes, Reels, Lines, Sheers, Sythes,</hi> and <hi>Wyre-Sieves, Watring-Pots, Baſs-Mats, Melon-Glaſſes,</hi> &amp;c. pr<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> As alſo, with all ſorts of <hi>Fruit-Trees,</hi> and <hi>Ever-Greens;</hi> and <hi>Artichokes, Liquorice, Colly-Flower, Cabbage,</hi> and <hi>Tarragon-Plants<g ref="char:punc">▪</g>
+               </hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
